@@ -1,0 +1,3 @@
+Soy Katya Ortega, cursando el 11A de Ingenieria en IRIC
+Estoy recordando como funciona git
+Esta linea esta siento agregada desde la rama katya al archivo file1.txt que se encuentra en master
